@@ -10,6 +10,7 @@ addons:
     sources:
       - ubuntu-toolchain-r-test
     packages:
+      - oracle-java8-installer
       - wget
       - pkg-config
 before_install:
